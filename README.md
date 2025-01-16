@@ -81,4 +81,4 @@ Several SQL queries are provided to retrieve relevant data from the database, in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MrCracker2/doctor-appointment-booking-system.git
+   git clone https://github.com/MrCracker2/Centralized-college-database.git
